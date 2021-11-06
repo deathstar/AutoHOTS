@@ -1,21 +1,21 @@
 # AutoHOTS 2.0
 
-These AutoHotKey scripts are designed to make your Heroes of the Storm experience more enjoyable. 
-They are completely within the terms of service and cannot be considered a cheat. They are simply
+AutoHOTS is designed to make your Heroes of the Storm experience more enjoyable. 
+Using it is completely within the terms of service and cannot be considered cheating. This program is simply
 designed to improve your experience by automating mundane repetative tasks. A simple example of 
 the use of the script would be the Lili Autohealer script. It can automatically press Q whenever 
-it is off cooldown so the person playing Lili doesn't have to hold down Q.
+it is off cooldown so the person playing Lili doesn't have to hold down Q. Another example would be using the 
+auto loot box opening feature which will automatically open loot boxes for you so you don't have to.
 
-## How to use AutoHOTS
-1) download and install autohotkey: https://www.autohotkey.com/
-2) from the folder this readme is in, open the script you want to use by double-clicking it
-3) tab back into the game once the script has been started
-4) press Q key once to start lili autoheal/CD notifier
-5) press Spacebar once to start lootbox opener
-6) press E key once to start auto nova clone/CD notifier
-7) press D key once to start auto trait/CD notifier
+## Features
+- auto lili healer
+- auto loot box opener 
+- auto trait activator 
+- auto nova clone generator 
 
-press Esc (Escape) key to stop any/all script(s)
+## Compatibility 
+- Mac OSX 
+- Windows 
 
 ## Patch Notes
 - fixes lili autoheal looping for shortest execution time possible
@@ -26,6 +26,3 @@ press Esc (Escape) key to stop any/all script(s)
 - now displays trait cooldown
 - remove hero highlight
 - open loot boxes now opens loot as fast as possible 
-
-## Compatability 
-Currently, AutoHOTS is a compilation of scripts designed for AutoHotkey to work on Windows. A future release will be available for Mac OSX.
