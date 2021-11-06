@@ -26,3 +26,6 @@ press Esc (Escape) key to stop any/all script(s)
 - now displays trait cooldown
 - remove hero highlight
 - open loot boxes now opens loot as fast as possible 
+
+## Compatability 
+Currently, AutoHOTS is a compilation of scripts designed for AutoHotkey to work on Windows. A future release will be available for Mac OSX.
